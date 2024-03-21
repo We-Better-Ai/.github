@@ -10,6 +10,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/webetterai/?viewAsMember=true) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webetterai?igsh=enRzaHZla28wZjI5&utm_source=qr)
 
+[WeBetterAi](https://img.shields.io/badge/WeBetterAi-3E13A7?style=for-the-badge&logo=webetterai&logoColor=white)
+
 We're excited to share our passion for technology with you and the world! 🌍
 
 📬 **Let's Collaborate:** We're always open to collaboration and eager to explore new opportunities. If you're looking to elevate your project with cutting-edge AI or seeking a technical partner to bring your vision to life, reach out to us. Together, we can create something truly remarkable. 🌟
