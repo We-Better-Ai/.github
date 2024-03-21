@@ -1,4 +1,4 @@
-🚀 **Welcome to We Better AI's GitHub!** 🚀
+🚀 **Welcome to We Better AI** 🚀
 
 👋 Here at **We Better AI**, we're on a mission to transform the digital landscape through innovative AI solutions. As an innovative software development company, we specialize in crafting custom AI-based solutions that cater to a wide range of needs. Whether it's groundbreaking AI, stunning web applications, mobile applications, or captivating UI/UX designs, we're all about pushing the boundaries of what's possible. 🌐💡
 
