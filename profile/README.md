@@ -7,8 +7,7 @@
 🤝 **Our Promise:** At We Better AI, innovation and exceptional customer experience are at the heart of everything we do. We're committed to not just meeting, but exceeding expectations, transforming challenges into opportunities. 💼
 
 👥 **Connect With Us:** Be part of our journey in making the digital world a better place. Follow us on:
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/webetterai/?viewAsMember=true)
-- [![Instagram]()](#)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/webetterai/?viewAsMember=true) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webetterai?igsh=enRzaHZla28wZjI5&utm_source=qr)
 
 We're excited to share our passion for technology with you and the world! 🌍
 
